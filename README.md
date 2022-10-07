@@ -9,6 +9,8 @@
 - JavaScript
 
 <h2 align="left">Installation</h2>
+
+  * Clone this repository.
    
   * ```npm i``` to install all required dependencies.
    
