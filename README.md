@@ -1,6 +1,6 @@
 # Equinox
 
-<h2>Description<br><h2>  <h4>A fitness website built with React.js and JavaScript.<h4>
+<h2>Description<br><h2>  <h4>A fitness website built with React. js and JavaScript.<h4>
   
 <h2 align="left">Languages and Tools</h2>
 
